@@ -1,0 +1,23 @@
+{
+  "name": "pug-lint-config-wolox",
+  "version": "1.0.0",
+  "description": "pug-lint configuration used at Wolox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolox/pug-lint-config-wolox.git"
+  },
+  "keywords": [
+    "pugLint",
+    "pugLintConfig"
+  ],
+  "author": "Front-End Army <gabriel.zanzotti@wolox.com.ar>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolox/pug-lint-config-wolox/issues"
+  },
+  "homepage": "https://github.com/Wolox/pug-lint-config-wolox#readme"
+}
