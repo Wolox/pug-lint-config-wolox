@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Wolox/pug-lint-config-wolox/issues"
   },
-  "homepage": "https://github.com/Wolox/pug-lint-config-wolox#readme"
+  "homepage": "https://github.com/Wolox/pug-lint-config-wolox#readme",
+  "peerDependencies": {
+    "pug-lint": "^2.5.0"
+  }
 }
